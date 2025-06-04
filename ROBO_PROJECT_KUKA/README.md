@@ -30,6 +30,8 @@ ROBO_PROJECT_KUKA/
 │
 ├── media/                  # Visuals extracted from problem statement
 │   ├── kuka_arm_diagram.png
+│   ├──robot_setup.png
+│   ├──figure4_target_alignment.png   
 │   ├── flange_adapter_views.png
 │   └── aruco_target_setup.png
 │
@@ -61,9 +63,7 @@ run('code/main.m')
 
 ## 📸 Visuals from Project
 
-| Robot & Frame Setup | Flange Adapter | ArUco Target Capture |
-|---------------------|----------------|-----------------------|
-| ![](media/kuka_arm_diagram.png) | ![](media/flange_adapter_views.png) | ![](media/aruco_target_setup.png) |
+| ![](media/robot_setup.png) | ![](media/figure4_target_alignment.png) |
 
 ## 👨‍💻 Author
 
